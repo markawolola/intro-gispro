@@ -1,1 +1,0 @@
-print("GIS analysis starting...")
